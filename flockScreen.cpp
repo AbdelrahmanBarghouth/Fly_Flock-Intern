@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 
 	cout << "Please enter the first string" << endl;
 	getline(cin,str1);
-	cout << str1<<endl;
+//	cout << str1<<endl;
 
 	cout << "Please enter the second string" << endl;
 	getline(cin,str2);
