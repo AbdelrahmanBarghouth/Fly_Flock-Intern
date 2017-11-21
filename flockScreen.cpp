@@ -15,12 +15,9 @@ using namespace std;
 int main(int argc, char** argv)
 {
 	string str1,str2;
-//	str1 = argv[1];
-//	str2 = argv[2];
 
 	cout << "Please enter the first string" << endl;
 	getline(cin,str1);
-//	cout << str1<<endl;
 
 	cout << "Please enter the second string" << endl;
 	getline(cin,str2);
