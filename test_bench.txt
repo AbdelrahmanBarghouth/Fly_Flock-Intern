@@ -1,0 +1,70 @@
+*******************************	 Test 1	 ******************************
+
+Input 1: ["I", ["love"], [[["awesome", "shiny"]]], "drones"]
+
+Input 2: ["I", ["hate"], [[["magenta", "dirty"]]], "drains"]
+
+Output: 97
+
+*******************************	 Test 2	 ******************************
+
+Input 1: ["I", ["love"], [[["awesome", "shiny"]], "drones"]
+
+Input 2: ["I", ["hate"], [[["magenta", "dirty"]]], "drains"]
+
+Output: Error
+
+*******************************	 Test 3	 ******************************
+
+Input 1: ["I", ["adore"], [[["awesome", "shiny"]]], "drones"]
+
+Input 2: ["I", ["hate"], [[["magenta", "dirty"]]], "drains"]
+
+Output: Error
+
+*******************************	 Test 4	 ******************************
+
+Input 1: ["I", ["love"], [[["awesome", "shiny"]]], "drones"}
+
+Input 2: ["I", ["hate"], [[["magenta", "dirty"]]], "drains"]
+
+Output: Error
+
+*******************************	 Test 5	 ******************************
+
+Input 1: {"I", ["love"], [[["awesome", "shiny"]]], "drones"]
+
+Input 2: ["I", ["hate"], [[["magenta", "dirty"]]], "drains"]
+
+Output: Error
+
+*******************************	 Test 6	 ******************************
+
+Input 1: abdoo
+Input 2: flock
+
+Output: 0
+
+*******************************	 Test 7	 ******************************
+
+Input 1: ["I", ["love"], [[["awesome2", "shiny"]]], "drones"]
+
+Input 2: ["I", ["hate"], [[["magenta1", "dirty"]]], "drains"]
+
+Output: Error
+
+*******************************	 Test 8	 ******************************
+
+Input 1: ["I", ["love"], [[["awesome"2, "shiny"]]], "drones"]
+
+Input 2: ["I", ["hate"], [[["magenta"1, "dirty"]]], "drains"]
+
+Output: Error
+
+*******************************	 Test 9	 ******************************
+
+Input 1: ["I", ["love"], [[["awesome2", "shiny"]]], "drones"]
+
+Input 2: ["I", ["love"], [[["awesome2", "shiny"]]], "drones"]
+
+Output: 0
