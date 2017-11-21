@@ -10,8 +10,7 @@ i- In these codes, I assumed several things:
 
 	1- The code compares only 2 strings, which is supposed by the user to input through the terminal.
 
-	2- Each input will be written when asked by the code as I take the whole line for one input so 
-the user can't input the 2 strings together with just a delimeter whatever it is.
+	2- Each input will be written when asked by the code as I take the whole line for one input so the user can't input the 2 strings together with just a delimeter whatever it is.
 
 	3- Each fragment has to be word without numericals, dashes or underscore or any other non-alpha chars.
 
