@@ -30,4 +30,4 @@ v- To run these codes:
 
 	1- For the python code, use any python environment and run it.	
 
-	2- The c code, You can either take the source file "flockScreen.cpp" and compile it and run it separately, or You can import the whole project in any IDE (I tried on eclipse) build the project and run it.
+	2- The c code, You can either take the source file "flockScreen.cpp" and compile it and run it separately, or You can import the whole project in any IDE (I tried on eclipse) build the project and run it. You can also run the executable directly from the debug folder (not recommended).
