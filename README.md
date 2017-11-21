@@ -10,11 +10,12 @@ i- In these codes, I assumed several things:
 
 	1- The code compares only 2 strings, which is supposed by the user to input through the terminal.
 
-	2- Each input will be written when asked by the code as I take the whole line for one input so the user can't input the 2 strings together with just a delimeter whatever it is.
+	2- Each input will be written when asked by the code as I take the whole line for one input so 
+the user can't input the 2 strings together with just a delimeter whatever it is.
 
 	3- Each fragment has to be word without numericals, dashes or underscore or any other non-alpha chars.
 
-ii- The computational time which is the capital O of these codes can be easily calculated using the duration taken by the for loop. If we assumed that the number of characters is "N", so we need time of "2N" for the perfectly matching strings.
+ii- The computational time which is the big O of these codes can be easily calculated using the duration taken by the for loop. If we assumed that the number of characters is "N", so we need time of "2N" for the perfectly matching strings.
 
 iii- Although the code is functioning well, I see it can improved in several aspects.
 
